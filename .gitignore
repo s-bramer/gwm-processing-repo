@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But Python files
+!*.py
+!*.ipynb
+
+# Keep .gitignore itself
+!.gitignore
